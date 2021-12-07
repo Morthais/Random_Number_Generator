@@ -20,9 +20,9 @@ class Game():
         """
         random_numbers = []
         MAX_LIMIT = 30
-        random_length = random.randint(0, MAX_LIMIT)
+        array_length = int(input("How long would you like the array? "))
         # generate random numbers for an array of random length
-        for _ in range(random_length):
+        for _ in range(array_length):
             # generate a random number between 0 and 15
             random_int = random.randint(0, MAX_LIMIT)
             # append that random number to the array
