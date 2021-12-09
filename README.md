@@ -4,22 +4,18 @@ This is a random number generator built using Python. It takes an empty array, a
 
 I wrote the software to reinforce and expand my skill with the basics of the Python programming language.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
+[Software Demo Video](https://youtu.be/DgePu7H4ado)
 
-[Software Demo Video](http://youtube.link.goes.here)
-
-# Development Environment
+## Development Environment
 
 * Visual Studio Code
 * GitHub
 * Python
 
-# Useful Websites
+## Useful Websites
 
 * [W3 Schools](https://www.w3schools.com/)
 
-# Future Work
+## Future Work
 
-* Modify the program to use inheritance (self._ attributes)
-* Modify the program to create multiple threads
 * Add a GUI for the program
